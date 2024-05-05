@@ -1,0 +1,17 @@
+/* Write your code here. */
+#root {
+  background-color: #0f172a;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+  font-family: 'Roboto';
+  color: #f8fafc;
+}
+.image {
+  height: 30vh;
+  width: 30vh;
+}
