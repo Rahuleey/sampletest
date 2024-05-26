@@ -1,0 +1,6 @@
+M=int(input())
+N=int(input())
+row=0
+while row<M:
+    print('* '*N)
+    row=row+1
